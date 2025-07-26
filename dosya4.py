@@ -1,0 +1,1 @@
+# bu dosya master üzerinde üretildi.
